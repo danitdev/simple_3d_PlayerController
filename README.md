@@ -21,3 +21,5 @@ A simple first-person controller for Unity 3D projects.
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/unity-3d-controller.git
+```
+2. Add it to your project.
