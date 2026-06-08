@@ -13,7 +13,7 @@ A simple first-person controller for Unity 3D projects.
 
 ### Prerequisites
 
-- Unity 2020.3 or higher
+- Unity 2022 or higher
 - Basic understanding of Unity components
 
 ### Installation
